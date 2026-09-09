@@ -1,0 +1,5 @@
+carbapenemase	C_se	C_sp	C_se_std	C_sp_std	J_se	J_sp	J_se_std	J_sp_std
+OXA-23	1	1	0	0	1	1	0	0
+NDM	0.1993	1	0.2329	0	0.8042	1	0.2203	0
+total	1	1	0	0	0.9498	1	0.0502	0
+OXA-40/58	0.8989	1	0.0452	0

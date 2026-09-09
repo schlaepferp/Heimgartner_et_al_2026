@@ -1,0 +1,10 @@
+was	Test	K	N	I	V	O	total
+pos	Coris	10	14	4	7	18	53
+pos	NG	10	14	4	10	18	56
+pos	Jianbo	9	14	4	10	18	55
+neg	Coris	51	47	57	51	43	249
+neg	NG	51	47	57	51	43	249
+neg	Jianbo	51	47	57	51	43	249
+ges	Coris	61	61	61	58	61	302
+ges	NG	61	61	61	61	61	305
+ges	Jianbo	60	61	61	61	61	304
